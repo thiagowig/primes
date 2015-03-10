@@ -5,7 +5,7 @@ import java.util.List;
 class PrimesCalculator {
 
 	def getPrimes(amount) {
-		def counter = 1
+		def counter = 1 
 		
 		def primes = [counter]
 		
