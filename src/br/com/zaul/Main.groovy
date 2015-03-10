@@ -3,7 +3,7 @@ package br.com.zaul
 class Main {
 
 	static void main(args) {
-		PrimesCalculator calculator = new PrimesCalculator() 
+		PrimesCalculator calculator = new PrimesCalculator()
 		
 		def firstTenPrimes = calculator.getPrimes(10)
 		
